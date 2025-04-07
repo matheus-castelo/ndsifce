@@ -147,6 +147,7 @@
 /home/matheuscastelo/Área de Trabalho/Blog/obj/Debug/net8.0/Blog.AssemblyInfo.cs
 /home/matheuscastelo/Área de Trabalho/Blog/obj/Debug/net8.0/Blog.csproj.CoreCompileInputs.cache
 /home/matheuscastelo/Área de Trabalho/Blog/obj/Debug/net8.0/Blog.MvcApplicationPartsAssemblyInfo.cache
+/home/matheuscastelo/Área de Trabalho/Blog/obj/Debug/net8.0/Blog.sourcelink.json
 /home/matheuscastelo/Área de Trabalho/Blog/obj/Debug/net8.0/staticwebassets.build.json
 /home/matheuscastelo/Área de Trabalho/Blog/obj/Debug/net8.0/staticwebassets.development.json
 /home/matheuscastelo/Área de Trabalho/Blog/obj/Debug/net8.0/staticwebassets/msbuild.Blog.Microsoft.AspNetCore.StaticWebAssets.props
